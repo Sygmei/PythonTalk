@@ -39,7 +39,7 @@ It could be :
 # Downloads
 
 - [Source archive](https://github.com/Sygmei/PythonTalk/releases/download/Downloads/samples.zip)
-- Powerpoint presentation (Available soon)
+- [Powerpoint presentation](https://github.com/Sygmei/PythonTalk/releases/download/Downloads/pythontalk.pptx)
 
 # Useful links
 
