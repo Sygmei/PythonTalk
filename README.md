@@ -51,6 +51,10 @@ It could be :
 - [Tail Call Optimisation](http://code.activestate.com/recipes/474088-tail-call-optimization-decorator/)
 - [Modifying locals](https://stackoverflow.com/questions/34650744/modify-existing-variable-in-locals-or-frame-f-locals)
 
+# Part 2 ideas
+- How to build functions / classes on runtime from a JSON file
+- Generators / coroutines
+
 # Credits
 
 Talk by @Sygmei
