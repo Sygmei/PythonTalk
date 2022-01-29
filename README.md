@@ -54,6 +54,7 @@ It could be :
 # Part 2 ideas
 - How to build functions / classes on runtime from a JSON file
 - Generators / coroutines
+- https://bugs.python.org/issue46555
 
 # Credits
 
