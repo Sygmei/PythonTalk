@@ -55,6 +55,7 @@ It could be :
 - How to build functions / classes on runtime from a JSON file
 - Generators / coroutines
 - https://bugs.python.org/issue46555
+- https://github.com/ZeroIntensity/pointers.py
 
 # Credits
 
