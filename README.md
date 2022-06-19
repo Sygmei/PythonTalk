@@ -56,6 +56,7 @@ It could be :
 - Generators / coroutines
 - https://bugs.python.org/issue46555
 - https://github.com/ZeroIntensity/pointers.py
+- https://stackoverflow.com/questions/972/adding-a-method-to-an-existing-object-instance
 
 # Credits
 
