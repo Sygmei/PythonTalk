@@ -57,6 +57,7 @@ It could be :
 - https://bugs.python.org/issue46555
 - https://github.com/ZeroIntensity/pointers.py
 - https://stackoverflow.com/questions/972/adding-a-method-to-an-existing-object-instance
+- True TCO using stack manipulation
 
 # Credits
 
