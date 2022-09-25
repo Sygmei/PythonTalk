@@ -58,6 +58,7 @@ It could be :
 - https://github.com/ZeroIntensity/pointers.py
 - https://stackoverflow.com/questions/972/adding-a-method-to-an-existing-object-instance
 - True TCO using stack manipulation
+- https://susam.net/blog/peculiar-self-references.html
 
 # Credits
 
