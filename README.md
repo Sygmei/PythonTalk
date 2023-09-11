@@ -59,6 +59,7 @@ It could be :
 - https://stackoverflow.com/questions/972/adding-a-method-to-an-existing-object-instance
 - True TCO using stack manipulation
 - https://susam.net/blog/peculiar-self-references.html
+- Creating a module that pip install the submodule on demand using ModuleType overriding and getattr
 
 # Credits
 
